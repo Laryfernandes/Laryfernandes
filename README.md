@@ -1,7 +1,7 @@
 ### Olá, sou a Laryssa F. Mariotto
 
 - 🔭 Em busca de conhecimento e experiências na área de front-end.
-- 🌱 Eztudante de Análise e Desenolvimento de Sistemas.
+- 🌱 Estudante de Análise e Desenolvimento de Sistemas.
 - 👯 Em busca de coadjuvar diversificados assuntos e dúvidas.
 - 📚 Lendo: Introdução à programação com python: algoritmos e lógica de programação para iniciantes.
 - 😄 Pronouns: Ela/dela
