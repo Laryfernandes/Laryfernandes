@@ -4,7 +4,6 @@
 - 💻 Intern at IBM working with salesforce
 - 🪪 10 Superbadges
 - 👯 Em busca de coadjuvar diversificados assuntos e dúvidas.
-- 📚 Lendo: Introdução à programação com python: algoritmos e lógica de programação para iniciantes.
 - 😄 Pronouns: Ela/dela
 
 <div align="center">
@@ -16,11 +15,11 @@
   
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Lary-sales" height="30" width="40" src="https://images.app.goo.gl/f6p2WoUEsmkdwpVs6">
+  <img align="center" alt="Lary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Lary-Sales" height="45" width="55" src="https://logodownload.org/wp-content/uploads/2020/04/salesforce-logo-0.png">
 </div>
   
   ##
