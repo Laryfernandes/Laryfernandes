@@ -1,7 +1,8 @@
 ### Olá, sou a Laryssa F. Mariotto
 
-- 💻 Intern at IBM working with salesforce
 - 🌱 Estudante de Análise e Desenolvimento de Sistemas.
+- 💻 Intern at IBM working with salesforce
+- 🪪 10 Superbadges
 - 👯 Em busca de coadjuvar diversificados assuntos e dúvidas.
 - 📚 Lendo: Introdução à programação com python: algoritmos e lógica de programação para iniciantes.
 - 😄 Pronouns: Ela/dela
@@ -19,6 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Lary-sales" height="30" width="40" src="https://images.app.goo.gl/f6p2WoUEsmkdwpVs6">
 </div>
   
   ##
