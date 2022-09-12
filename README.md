@@ -1,6 +1,6 @@
 ### Olá, sou a Laryssa F. Mariotto
 
-- 🌱 Estudante de Análise e Desenolvimento de Sistemas.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Intern at IBM working with salesforce
 - 🪪 10 Superbadges
 - 👯 Em busca de coadjuvar diversificados assuntos e dúvidas.
