@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Intern at IBM working with salesforce
-- 🪪 10 Superbadges
+- 🪪 19 Superbadges
 - 👯 Em busca de coadjuvar diversificados assuntos e dúvidas.
 - 😄 Pronouns: Ela/dela
 
